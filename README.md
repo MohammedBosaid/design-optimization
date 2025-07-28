@@ -9,4 +9,14 @@ This repository shows the modeling and optimization of a U-bracket designed for 
 - **Unit System**: Inch
 
 
+## 📸 Design Images Preview
+
+
+![Front View](1.png)
+
+
+![Side View](2.png)
+
+
+![Top View](3.png)
 
