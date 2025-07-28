@@ -8,8 +8,11 @@ This repository shows the modeling and optimization of a U-bracket designed for 
 - **CAD Software**: Onshape
 - **Unit System**: Inch
 
+## Design File
+**[Task 3.sldprt](Task%203.sldprt)**
 
-## 📸 Design Images Preview
+
+##  Design Images Preview
 
 
 ![Front View](1.png)
